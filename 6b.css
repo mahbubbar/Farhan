@@ -1,0 +1,65 @@
+.email{
+    font-family: Arial;
+    color:rgb(104, 99, 95);
+}
+.typebox{
+    width: 480px;
+    padding: 10px;
+    border-radius: 10px;
+    border: solid;
+    border-width: 2px;
+    border-color: black;
+}
+.terms{
+    color: rgb(104, 99, 95);
+    font-weight: 500;
+    font-family: Arial;
+    font-size: 20px;
+    margin-top: 25px;
+    margin-bottom: 25px;
+    
+}
+.Join{
+    border: none;
+    border-radius: 200px;
+    background-color: rgb(0, 121, 234);
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-right: 170px;
+    padding-left: 170px;
+    font-size: 25px;
+    color: white;
+    
+}
+.cat{
+    width:70px;
+    height:70px;
+    object-fit: cover;
+    border-radius: 200px;
+
+}
+.update{
+    border:none;
+    vertical-align: top;
+    margin-top: 20px;
+    margin-left: 10px;
+    font-size: 20px;
+}
+.tweet-button{
+    vertical-align:top;
+    margin-top: 5px;
+    margin-left: 150px;
+    background-color: rgb(0, 121, 234);
+    color: white;
+    border:none;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-right: 25px;
+    padding-left: 25px;
+    border-radius: 30px;
+    font-family: Arial;
+    font-size:20px;
+    font-weight: bold;
+
+
+}
